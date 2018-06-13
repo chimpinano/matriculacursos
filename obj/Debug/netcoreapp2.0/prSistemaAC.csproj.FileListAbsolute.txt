@@ -1,0 +1,12 @@
+D:\devNetCore\slnSistemaAC\prSistemaAC\bin\Debug\netcoreapp2.0\prSistemaAC.deps.json
+D:\devNetCore\slnSistemaAC\prSistemaAC\bin\Debug\netcoreapp2.0\prSistemaAC.runtimeconfig.json
+D:\devNetCore\slnSistemaAC\prSistemaAC\bin\Debug\netcoreapp2.0\prSistemaAC.runtimeconfig.dev.json
+D:\devNetCore\slnSistemaAC\prSistemaAC\bin\Debug\netcoreapp2.0\prSistemaAC.dll
+D:\devNetCore\slnSistemaAC\prSistemaAC\bin\Debug\netcoreapp2.0\prSistemaAC.pdb
+D:\devNetCore\slnSistemaAC\prSistemaAC\obj\Debug\netcoreapp2.0\prSistemaAC.csproj.CoreCompileInputs.cache
+D:\devNetCore\slnSistemaAC\prSistemaAC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\devNetCore\slnSistemaAC\prSistemaAC\obj\Debug\netcoreapp2.0\prSistemaAC.AssemblyInfoInputs.cache
+D:\devNetCore\slnSistemaAC\prSistemaAC\obj\Debug\netcoreapp2.0\prSistemaAC.AssemblyInfo.cs
+D:\devNetCore\slnSistemaAC\prSistemaAC\obj\Debug\netcoreapp2.0\prSistemaAC.dll
+D:\devNetCore\slnSistemaAC\prSistemaAC\obj\Debug\netcoreapp2.0\prSistemaAC.pdb
+D:\devNetCore\slnSistemaAC\prSistemaAC\obj\Debug\netcoreapp2.0\prSistemaAC.csprojResolveAssemblyReference.cache
